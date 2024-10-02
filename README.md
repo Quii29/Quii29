@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning CS at Ho Chi Minh University of Science
 <!--
 **Quii29/Quii29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
